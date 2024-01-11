@@ -562,31 +562,31 @@
 
 
 
-'''class myclass():
-    def __len__(self):
-        x = int(input("son kirit "))
-        return x
-
-myobj = myclass()
-print(bool(myobj))'''
-
-
-
-def myfunc(v):
-  return abs(v - 50)
-
-thislist = [100, 50, 65, 82, 23]
-
-thislist.sort(key = myfunc)
-
-print(thislist)
+# class myclass():
+#    def __len__(self):
+#        x = int(input("son kirit "))
+#        return x
+#
+# myobj = myclass()
+# print(bool(myobj))
 
 
-thislist = [1,7,9,4,5]
 
-thislist.sort(key=int)
+# def myfunc(v):
+#   return abs(v - 50)
 
-print(thislist)
+# thislist = [100, 50, 65, 82, 23]
+
+# thislist.sort(key = myfunc)
+
+# print(thislist)
+
+
+# thislist = [1,7,9,4,5]
+
+# thislist.sort(key=int)
+
+# print(thislist)
 
 
 
