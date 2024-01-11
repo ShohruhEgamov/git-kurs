@@ -582,7 +582,7 @@ thislist.sort(key = myfunc)
 print(thislist)
 
 
-''''thislist = [1,7,9,4,5]
+thislist = [1,7,9,4,5]
 
 thislist.sort(key=int)
 
