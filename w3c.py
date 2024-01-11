@@ -572,21 +572,21 @@ print(bool(myobj))'''
 
 
 
-'''def myfunc(v):
+def myfunc(v):
   return abs(v - 50)
 
 thislist = [100, 50, 65, 82, 23]
 
 thislist.sort(key = myfunc)
 
-print(thislist)'''
+print(thislist)
 
 
-''''thislist = [1,7,9,4,5]
+thislist = [1,7,9,4,5]
 
 thislist.sort(key=int)
 
-print(thislist)'''
+print(thislist)
 
 
 
